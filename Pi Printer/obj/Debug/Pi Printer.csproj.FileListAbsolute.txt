@@ -1,0 +1,6 @@
+c:\users\shane_dev\documents\visual studio 2015\Projects\Pi Printer\Pi Printer\bin\Debug\Pi Printer.exe.config
+c:\users\shane_dev\documents\visual studio 2015\Projects\Pi Printer\Pi Printer\obj\Debug\Pi Printer.csprojResolveAssemblyReference.cache
+c:\users\shane_dev\documents\visual studio 2015\Projects\Pi Printer\Pi Printer\bin\Debug\Pi Printer.exe
+c:\users\shane_dev\documents\visual studio 2015\Projects\Pi Printer\Pi Printer\bin\Debug\Pi Printer.pdb
+c:\users\shane_dev\documents\visual studio 2015\Projects\Pi Printer\Pi Printer\obj\Debug\Pi Printer.exe
+c:\users\shane_dev\documents\visual studio 2015\Projects\Pi Printer\Pi Printer\obj\Debug\Pi Printer.pdb
